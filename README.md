@@ -3,6 +3,8 @@
 ## MCP Server with MSSQL
 
 ### Tools
+![image](https://github.com/user-attachments/assets/e38ef3c9-b313-444f-8b0a-ffe5963224cf)
+
 `CreateStudent`
 - Create New Student
 - **Inputs**
