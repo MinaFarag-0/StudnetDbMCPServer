@@ -49,7 +49,7 @@
                 "args": [
                     "run",
                     "--project",
-                    "PATH_TO_YOUR_MCPSERVER"
+                    "PATH_TO_YOUR_MCPSERVER_Project"
                 ]
             }
     }
